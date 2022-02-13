@@ -1,6 +1,10 @@
-# flutter_light_sensor
+# Flutter Light Sensor Package 
 
-A new flutter plugin project.
+This is a package made with Flutter and Android to fetch the Data from Light Sensor of the device. 
+Althrough I am looking for a contributor for the IOS side. I have already completed this for Android Side.
+
+## Features
+#### 1. Fetch Light Sensor data by Stream From the Device Natively.
 
 ## Getting Started
 
